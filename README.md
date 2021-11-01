@@ -1,1 +1,1 @@
-# hacktoberfest-pull-requst-accpected
+# hacktoberfest-pull-requst-accspet
